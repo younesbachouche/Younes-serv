@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/9_picture.png",ENTV
+#EXTINF:-1 tvg-name="ENTV" tvg-id="ALGERIA" group-title="ENTV" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/9_picture.png",ENTV
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Algerie" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",Canal Algerie
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 3" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bc/Logo_de_TV3_Alg%C3%A9rie_%282020%29.svg",Algerie 3
+https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
