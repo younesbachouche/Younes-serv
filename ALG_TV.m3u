@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="ENTV" tvg-id="ALGERIA" group-title="ENTV" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/9_picture.png",ENTV
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/28160
 #EXTINF:-1 tvg-name="Canal Algerie" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",Canal Algerie
-https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
+https://tv.hiho5.com:8443/live/hamzaUs02/A62DKgdgfe65/83.m3u8
 #EXTINF:-1 tvg-name="Algerie 3" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png",Algerie 3
 http://iptv.journalsat.com:25461/live/760192975/journalsat/64.m3u8
 #EXTINF:-1 tvg-name="Algerie 4" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png",Algerie 4
@@ -32,7 +32,7 @@ https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
 #EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/140_picture.png",EL BILAD TV
 https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
 #EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png",EL BILAD TV
-https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+https://tv.hiho5.com:8443/live/hamzaUs02/A62DKgdgfe65/100.m3u8
 #EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",EL BILAD TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 #EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png",EL BILAD TV
