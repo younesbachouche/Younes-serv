@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ENTV" tvg-id="ALGERIA" group-title="ENTV" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/9_picture.png",ENTV
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/28160
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/016/index.m3u8
 #EXTINF:-1 tvg-name="Canal Algerie" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",Canal Algerie
 https://tv.hiho5.com:8443/live/hamzaUs02/A62DKgdgfe65/83.m3u8
 #EXTINF:-1 tvg-name="Algerie 3" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png",Algerie 3
