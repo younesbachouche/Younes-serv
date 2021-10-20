@@ -10,7 +10,7 @@ https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
 #EXTINF:-1 tvg-name="Algerie 5" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png",Algerie 5
 http://iptv.journalsat.com:25461/live/760192975/journalsat/66.m3u8
 #EXTINF:-1 tvg-name="Algerie 6" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png",Algerie 6
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/005/index.m3u8
+http://1.adrawayoun.xyz/live/005/index.m3u8
 #EXTINF:-1 tvg-name="Algerie 7" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png",Algerie 7
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
 #EXTINF:-1 tvg-name="Algerie 8" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png",Algerie 8
