@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ENTV" tvg-id="ALGERIA" group-title="ENTV" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",beIN Pr 1
+http://dikoapi.xyz:8080/pcccde123/8888/16.m3u8
+#EXTINF:-1 tvg-name="Canal Algerie" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",beIN Pr 2
+http://dikoapi.xyz:8080/pcccde123/8888/17.m3u8
+#EXTINF:-1 tvg-name="Algerie 3" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",Algerie 3
+http://dikoapi.xyz:8080/pcccde123/8888/18.m3u8
+#EXTINF:-1 tvg-name="Algerie 4" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",Algerie 4
+http://dikoapi.xyz:8080/pcccde123/8888/19.m3u8
+#EXTINF:-1 tvg-name="Algerie 5" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",Algerie 5
+http://dikoapi.xyz:8080/pcccde123/8888/20.m3u8
+#EXTINF:-1 tvg-name="Algerie 6" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",Algerie 6
+http://dikoapi.xyz:8080/pcccde123/8888/21.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-id="beIN SPORTS" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",Algerie 7
+http://217.74.16.155:8082/local/ar-s/bein-4-stop/index.m3u8
+#EXTINF:-1 tvg-name="Algerie 8" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",Algerie 8
+http://217.74.16.155:8082/local/ar-s/bein-5-stop/index.m3u8
+#EXTINF:-1 tvg-name="EL BILAD TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",EL BILAD TV
+http://217.74.16.155:8082/local/ar-s/bein-6-stop/index.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",EL BILAD TV
+http://217.74.16.155:8082/local/ar-s/bein-7-stop/index.m3u8
