@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/Logo_RMC_Sport_1_2018.svg",EL BILAD TV
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://1.bp.blogspot.com/-K-aj6NFIYEY/XZrttiRuJrI/AAAAAAAAAqw/n7UNmQYYLJQqqwSkHTxEn-2HWcf11Xq9wCPcBGAYYCw/s1600/a1427.png",EL BILAD TV
 https://sv1.matchfree.xyz/live/kaicerapknew464/rR9Vin6H7z/259.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",EL BILAD TV
+https://sv1.matchfree.xyz/live/kaicerapknew464/rR9Vin6H7z/260.m3u8
 #EXTINF:-1 tvg-name="ENTV" tvg-id="ALGERIA" group-title="ENTV" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",beIN Pr 1
 http://dikoapi.xyz:8080/pcccde123/8888/16.m3u8
 #EXTINF:-1 tvg-name="Canal Algerie" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",beIN Pr 2
