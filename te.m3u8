@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://line.tvdsz.cc:80/c/play/live.php?mac=00:1A:79:00:00:00&stream=230227&extension=m3u8
