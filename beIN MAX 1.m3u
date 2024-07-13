@@ -1,0 +1,5 @@
+#EXTM3U8
+#EXTINF:beIN Premium 3 HD 
+#EXTVLCOPT:http-referrer=https://viwlivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; elahmad premium4)
+https://webhdrus.onlinehdhls.ru/lb/premium888/index.m3u8
