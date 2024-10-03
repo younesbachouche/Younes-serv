@@ -1,8 +1,5 @@
 #EXTM3U8
-#EXTINF:beIN Premium 3 HD 
-#EXTVLCOPT:http-referrer=https://ajsports.ch/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
-https://beast3.sportshub808.com/stream/74/arenasport1hr.m3u8
-
-
-
+#EXTINF:ARENA SPORTS 1 
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://topembed.webhd.ru/lb/arenasport1serbia/playlist.m3u8
