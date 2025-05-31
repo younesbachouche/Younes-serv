@@ -1,0 +1,86 @@
+{
+  "categories": [
+    {
+      "name": "beIN SPORTS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bein_sports_logo.png",
+      "channels": [
+        {
+          "name": "beIN SPORTS 1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bein_sports_logo.png",
+          "stream": "https://example.com/stream/bein1.m3u8"
+        },
+        {
+          "name": "beIN SPORTS 2",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bein_sports_logo.png",
+          "stream": "https://example.com/stream/bein2.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "CANAL+",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_Canal%2B_2013.svg",
+      "channels": [
+        {
+          "name": "CANAL+ Sport",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_Canal%2B_2013.svg",
+          "stream": "https://example.com/stream/canal-sport.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "SKY SPORTS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sky_Sports_logo_2020.svg",
+      "channels": [
+        {
+          "name": "Sky Sports Premier League",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sky_Sports_logo_2020.svg",
+          "stream": "https://example.com/stream/skypl.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "TNT SPORTS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/TNT_Sports_logo_2021.svg",
+      "channels": [
+        {
+          "name": "TNT Sports 1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/TNT_Sports_logo_2021.svg",
+          "stream": "https://example.com/stream/tnt1.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "SPORT TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/SportTV_Portugal_logo.png",
+      "channels": [
+        {
+          "name": "Sport TV 1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/SportTV_Portugal_logo.png",
+          "stream": "https://example.com/stream/sporttv1.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "DAZN",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/DAZN_logo.svg",
+      "channels": [
+        {
+          "name": "DAZN 1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/DAZN_logo.svg",
+          "stream": "https://example.com/stream/dazn1.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "ARENA SPORT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Arena_Sport_logo.png",
+      "channels": [
+        {
+          "name": "Arena Sport 1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Arena_Sport_logo.png",
+          "stream": "https://example.com/stream/arena1.m3u8"
+        }
+      ]
+    }
+  ]
+}
